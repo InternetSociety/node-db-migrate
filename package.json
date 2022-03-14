@@ -55,7 +55,6 @@
     "rc": "^1.2.8",
     "resolve": "^1.1.6",
     "semver": "^5.3.0",
-    "tunnel-ssh": "^4.0.0",
     "yargs": "^15.3.1"
   },
   "devDependencies": {
@@ -73,6 +72,9 @@
     "proxyquire": "^1.4.0",
     "rimraf": "^3.0.2",
     "sinon": "^9.0.2"
+  },
+  "optionalDependencies": {
+    "tunnel-ssh": "^4.0.0"
   },
   "funding": {
     "type": "opencollective",
